@@ -1,6 +1,6 @@
 # StegoSafe
 
->Advanced LSB Steganography Tool for Secure Message Hiding in Images
+> Advanced LSB Steganography Tool for Secure Message Hiding in Images
 > **Author**: CHINNAPAREDDY VENKATA KARTHIK REDDY  
 > **For Educational and Ethical Research Purposes Only**
 
