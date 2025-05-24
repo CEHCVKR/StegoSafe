@@ -1,5 +1,9 @@
 # StegoSafe
 
+>Advanced LSB Steganography Tool for Secure Message Hiding in Images
+> **Author**: CHINNAPAREDDY VENKATA KARTHIK REDDY  
+> **For Educational and Ethical Research Purposes Only**
+
 **StegoSafe** is a Python-based tool for secure image steganography using the Least Significant Bit (LSB) method. It ensures format-aware encoding by avoiding lossy image formats like JPEG that may corrupt hidden data.
 
 ---
@@ -114,19 +118,11 @@ StegoSafe/
 
 ---
 
-## 👤 Author
+## 📬 Contact
 
-**CHINNAPAREDDY VENKATA KARTHIK REDDY**  
-Cybersecurity Enthusiast | B.Tech in CSE (IoT & CS)  
-GitHub: [@CEHCVKR](https://github.com/CEHCVKR)  
-LinkedIn: [cvkr](https://www.linkedin.com/in/cvkr/)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify, and share with credit.
+- 📧 Email: [22bq1a4720@gmail.com](mailto:22bq1a4720@gmail.com)
+- 🌐 GitHub: [@CEHCVKR](https://github.com/CEHCVKR)
+- 💼 LinkedIn: [@cvkr](https://linkedin.com/in/cvkr)
 
 ---
 
